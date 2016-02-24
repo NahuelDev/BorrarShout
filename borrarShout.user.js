@@ -2,6 +2,7 @@
 // @name Borrar Shout
 // @namespace Violentmonkey Scripts
 // @author       @Mauri934 y @AndrewLedger
+// @match        http://www.taringa.net/mi
 // @grant none
 // ==/UserScript==
 
